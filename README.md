@@ -4,7 +4,7 @@
 
 # Hi! 👋 I'm Lautaro Rojas
 
-### Backend Developer | C#, .NET, REST API, GitHub Actions
+### Backend Developer | C#, .NET, REST API, GitHub Actions, CI/CD
 I'm a Software Developer specializing in Backend and Tooling, with a primary stack in **C#/.NET**.
 I'm passionate about building developer tools and automating processes with **CI/CD**.
 
@@ -60,8 +60,7 @@ My background as a Systems Analyst gives me a complete understanding of the soft
 
 # ¡Hola! 👋 Soy Lautaro Rojas
 
-### Programador Backend | C#, .NET, API REST, GitHub Actions
-### Desarrollador de Software (Backend & Tooling) | C#, Node.js, CI/CD
+### Programador Backend | C#, .NET, API REST, GitHub Actions, CI/CD
 
 Soy un Desarrollador de Software especializado en Backend y Tooling, con un stack principal en **C#/.NET**.
 Me apasiona construir herramientas para desarrolladores y automatizar procesos con **CI/CD**.
