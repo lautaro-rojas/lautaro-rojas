@@ -32,8 +32,6 @@ My background as a Systems Analyst gives me a complete understanding of the soft
 
 ### 🌟 My Featured Projects
 
-*(Remember to "Pin" these repositories to your GitHub profile!)*
-
 #### 📌 SideTask - VS Code Extension
 * **What it is:** A VS Code extension that scans and centralizes all `//TODO:` comments into a dedicated panel.
 * **Stack:** `Node.js`, `TypeScript`, `GitHub Actions (CI/CD)`.
