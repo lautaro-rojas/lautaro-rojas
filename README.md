@@ -109,3 +109,4 @@ Mi experiencia como Analista de Sistemas me da una visión completa del ciclo de
 [![WhatsApp](https://img.shields.io/badge/Mandá_un_mensaje-006BFF?style=for-the-badge&logo=Whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0)
 
 ⭐️ [@Lautaro Rojas](https://github.com/lautaro-rojas)
+</details>
