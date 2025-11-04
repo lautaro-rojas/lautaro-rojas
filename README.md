@@ -52,6 +52,8 @@ My background as a Systems Analyst gives me a complete understanding of the soft
 [![Calendly](https://img.shields.io/badge/Schedule_a_meeting-006BFF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendar.app.google/hYRKXzDSy11vRYpK6)
 [![WhatsApp](https://img.shields.io/badge/Send_a_message-006BFF?style=for-the-badge&logo=Whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0)
 
+⭐️ [@Lautaro Rojas](https://github.com/lautaro-rojas)
+
 <br>
 <br>
 
