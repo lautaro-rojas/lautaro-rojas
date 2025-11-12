@@ -47,7 +47,7 @@ My background as a Systems Analyst gives me a complete understanding of the soft
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lautarorojas02.job@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-rojas/)
-[![Calendly](https://img.shields.io/badge/Schedule_a_meeting-006BFF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendar.app.google/hYRKXzDSy11vRYpK6)
+[![Calendly](https://img.shields.io/badge/Schedule_a_meeting-006BFF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/lautaro-rojas/30min)
 [![WhatsApp](https://img.shields.io/badge/Send_a_message-006BFF?style=for-the-badge&logo=Whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0)
 
 ⭐️ [@Lautaro Rojas](https://github.com/lautaro-rojas)
@@ -105,7 +105,7 @@ Mi experiencia como Analista de Sistemas me da una visión completa del ciclo de
 
 [![Correo](https://img.shields.io/badge/Correo-0077B5?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lautarorojas02.job@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-rojas/)
-[![Calendly](https://img.shields.io/badge/Agendá_una_reunión-006BFF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendar.app.google/hYRKXzDSy11vRYpK6)
+[![Calendly](https://img.shields.io/badge/Agendá_una_reunión-006BFF?style=for-the-badge&logo=Calendly&logoColor=white)](https://calendly.com/lautaro-rojas/30min)
 [![WhatsApp](https://img.shields.io/badge/Mandá_un_mensaje-006BFF?style=for-the-badge&logo=Whatsapp&logoColor=green)](https://api.whatsapp.com/send/?phone=5491162487183&text&app_absent=0)
 
 ⭐️ [@Lautaro Rojas](https://github.com/lautaro-rojas)
