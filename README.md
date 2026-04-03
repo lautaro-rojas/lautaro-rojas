@@ -13,7 +13,7 @@ My background as a Systems Analyst gives me a complete understanding of the soft
 - 🔭 I’m currently building **SideTask**, my VS Code extension.
 - 🌱 I’m always learning about software architecture and DevOps.
 - 👯 I’m looking to collaborate on open-source projects or join an innovative team.
-- 💬 Ask me about: `C#`, `.NET`, `API Architecture`, `Scrum`.
+- 💬 Ask me about: `C#`, `.NET`, `API Architecture`, `Clean Architecture`.
 - 📫 How to reach me: [lautarojas02.job@gmail.com](mailto:lautarojas02.job@gmail.com)
 - ⚡ Fun fact: I'm a competitive CrossFit athlete.
 
@@ -70,7 +70,7 @@ Mi experiencia como Analista de Sistemas me da una visión completa del ciclo de
 - 🔭 Actualmente estoy construyendo **SideTask**, mi extensión para VS Code.
 - 🌱 Estoy siempre aprendiendo sobre arquitectura de software y DevOps.
 - 👯 Busco colaborar en proyectos open-source o unirme a un equipo innovador.
-- 💬 Pregúntame sobre: `C#`, `.NET`, `Arquitectura de APIs`, `Scrum`.
+- 💬 Pregúntame sobre: `C#`, `.NET`, `Arquitectura de APIs`, `Clean Architecture`.
 - 📫 Cómo contactarme: [lautarorojas02.job@gmail.com](mailto:lautarorojas02.job@gmail.com)
 - ⚡ Dato curioso: Soy atleta de CrossFit competitivo.
 
